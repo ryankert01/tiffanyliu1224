@@ -11,6 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [碎碎念隨筆（五）：安裝 OpenCV 時如何設定環境變數？](https://medium.com/@TitaLiu/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%9A%A8%E7%AD%86-%E4%BA%94-%E5%AE%89%E8%A3%9D-opencv-%E6%99%82%E5%A6%82%E4%BD%95%E8%A8%AD%E5%AE%9A%E7%92%B0%E5%A2%83%E8%AE%8A%E6%95%B8-bfcfb2f92f42?source=rss-1f0703e3e84b------2)
+- [碎碎念隨筆（四）：資安體驗營之奧義桌遊爽爽玩](https://medium.com/@TitaLiu/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%9A%A8%E7%AD%86-%E5%9B%9B-%E8%B3%87%E5%AE%89%E9%AB%94%E9%A9%97%E7%87%9F%E4%B9%8B%E5%A5%A7%E7%BE%A9%E6%A1%8C%E9%81%8A%E7%88%BD%E7%88%BD%E7%8E%A9-77e399cbc75a?source=rss-1f0703e3e84b------2)
+- [碎碎念隨筆（三）：pwn.college 的冒險時間](https://medium.com/@TitaLiu/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%9A%A8%E7%AD%86-%E4%B8%89-pwn-college-%E7%9A%84%E5%86%92%E9%9A%AA%E6%99%82%E9%96%93-e203a45b99b?source=rss-1f0703e3e84b------2)
+- [碎碎念隨筆（二）：pwn.college Interaction level 3](https://medium.com/@TitaLiu/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%9A%A8%E7%AD%86-%E4%BA%8C-pwn-college-interaction-level-3-5ffcb9b20b3f?source=rss-1f0703e3e84b------2)
+- [碎碎念隨筆（一）：駭客 &amp; SSH &amp; 初學 Linux 指令](https://medium.com/@TitaLiu/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%9A%A8%E7%AD%86-%E4%B8%80-%E9%A7%AD%E5%AE%A2-ssh-%E5%88%9D%E5%AD%B8-linux-%E6%8C%87%E4%BB%A4-e67ec1955c0b?source=rss-1f0703e3e84b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
