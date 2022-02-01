@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/a/nVTwx3y"></p>
+<p align="center"><img src="https://i.imgur.com/kkI1JSM.gif"></p>
 <h3 align="center">A computer science student from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiffanyliu1224&label=Profile%20views&color=0e75b6&style=flat" alt="tiffanyliu1224" /> </p>
