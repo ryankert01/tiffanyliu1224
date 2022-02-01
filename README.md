@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tita</h1>
+<p align="center">![](https://imgur.com/a/nVTwx3y)</p>
 <h3 align="center">A computer science student from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiffanyliu1224&label=Profile%20views&color=0e75b6&style=flat" alt="tiffanyliu1224" /> </p>
