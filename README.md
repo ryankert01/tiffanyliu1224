@@ -3,7 +3,7 @@
 
 <h3 align="left"> My github badges: </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiffanyliu1224" alt="tiffanyliu1224" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiffanyliu1224"&theme=onestarno-bg=true alt="tiffanyliu1224" /></a> </p>
 
 - 🌱 I’m currently learning **Java and IOT**
 
