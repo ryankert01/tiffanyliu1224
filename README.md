@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/kkI1JSM.gif"></p>
 <h3 align="center">A computer science student from Taiwan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiffanyliu1224&label=Profile%20views&color=0e75b6&style=flat" alt="tiffanyliu1224" /> </p>
+<p align="left"> <img src="https://i.imgur.com/YVRdp4w.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiffanyliu1224" alt="tiffanyliu1224" /></a> </p>
 
